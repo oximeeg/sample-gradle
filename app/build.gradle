@@ -8,6 +8,7 @@ repositories {
 
 dependencies {
     implementation 'com.oximeeg:sample.lib:1.0.0'
+    implementation 'com.oximeeg:sample.core:2.0.0'
 }
 
 application {
